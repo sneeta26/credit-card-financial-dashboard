@@ -7,10 +7,10 @@ The project focuses on understanding revenue performance, transaction behavior, 
 ## Dashboard Preview
 
 ### Customer Report
-![Customer Dashboard](screenshots/customer-dashboard.png)
+![Customer Dashboard](customer-dashboard.png)
 
 ### Transaction Report
-![Transaction Dashboard](screenshots/transaction-dashboard.png)
+![Transaction Dashboard](transaction-dashboard.png)
 
 ## Project Objective
 
